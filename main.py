@@ -31,7 +31,9 @@ while not Game_ended:
     
   elif user_restart_choice == "no":
     Game_ended = True
-    print("Alrighty then.")
+    print("Alrighty then. Byebye.")
+
+
     
   
 
